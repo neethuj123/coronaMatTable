@@ -1,0 +1,19 @@
+td{
+	    padding: 10px !important;
+}
+th{
+	    padding: 16px !important;
+
+}
+h1{
+	text-align:center;
+}
+/*mat-paginator{
+	    width: 89% !important;
+
+}*/
+
+.example-container{
+	width: 84%;
+    margin: auto;
+}
